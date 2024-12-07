@@ -3,3 +3,5 @@ public class Main {
         System.out.println("Sistema de Controle de Multas Iniciado!");
     }
 }
+
+
