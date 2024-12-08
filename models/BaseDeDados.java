@@ -103,5 +103,6 @@ public class BaseDeDados {
             System.err.println("Erro ao converter tipo de ocorrência: " + e.getMessage());
         }
 
+    
     }
 }

@@ -72,5 +72,6 @@ public class Multa {
                 ", Nível Multa=" + nivelMulta +
                 ", Valor Multa=" + valorMulta +
                 '}';
+    
     }
 }

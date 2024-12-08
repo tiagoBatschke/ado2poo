@@ -19,5 +19,14 @@ public class Main {
 
         System.out.println("\nMultas geradas:");
         baseDeDados.listarMultas().forEach(System.out::println);
+
+
+
+
+
     }
+
+
+
+
 }

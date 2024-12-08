@@ -11,6 +11,7 @@ public class Ocorrencia {
         this.logradouro = logradouro;
         this.dataHora = dataHora;
         this.tipoOcorrencia = tipoOcorrencia;
+    
     }
 
     // Getters e Setters

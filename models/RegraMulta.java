@@ -8,4 +8,5 @@ public abstract class RegraMulta {
     public abstract Multa calcularMulta(Ocorrencia ocorrencia);
     public abstract int verificaNivelMulta(Ocorrencia ocorrencia);
     public abstract String obterDescricaoMulta();
+
 }

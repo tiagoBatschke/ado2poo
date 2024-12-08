@@ -9,6 +9,7 @@ public class RegraCorredorOnibus extends RegraMulta {
         this.horaInicio = horaInicio;
         this.horaFim = horaFim;
         this.logradouro = logradouro;
+    
     }
 
     @Override

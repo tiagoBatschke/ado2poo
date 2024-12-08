@@ -9,6 +9,7 @@ public class RegraRodizio extends RegraMulta {
         this.diaSemana = diaSemana;
         this.logradouros = logradouros;
         this.digitoFinalPlaca = digitoFinalPlaca;
+    
     }
 
     @Override
